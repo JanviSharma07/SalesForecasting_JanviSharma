@@ -1,0 +1,25 @@
+Month,Forecast,Segment,Type
+2019-01,54889.36,Overall,Overall
+2019-02,56255.16,Overall,Overall
+2019-03,62239.63,Overall,Overall
+2019-01,9530.17,Furniture,Category
+2019-02,7578.84,Furniture,Category
+2019-03,16269.25,Furniture,Category
+2019-01,25618.3,Office Supplies,Category
+2019-02,25679.14,Office Supplies,Category
+2019-03,29615.15,Office Supplies,Category
+2019-01,19304.57,Technology,Category
+2019-02,22363.32,Technology,Category
+2019-03,21334.97,Technology,Category
+2019-01,7554.93,South,Region
+2019-02,8911.69,South,Region
+2019-03,12859.97,South,Region
+2019-01,11552.87,West,Region
+2019-02,14752.18,West,Region
+2019-03,21360.36,West,Region
+2019-01,9696.33,Central,Region
+2019-02,11449.9,Central,Region
+2019-03,10364.77,Central,Region
+2019-01,25747.19,East,Region
+2019-02,26799.87,East,Region
+2019-03,28335.7,East,Region
