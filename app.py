@@ -74,7 +74,7 @@ if page == "Sales Overview":
 
     # --- Monthly sales trend ---
     st.subheader("Monthly Sales Trend")
-    monthly = filtered.groupby(pd.Grouper(key="Order Date", freq="M"))["Sales"].sum()
+    monthly = filtered.groupby(pd.Grouper(key="Order Date", freq="ME"))["Sales"].sum()
     fig, ax = plt.subplots(figsize=(10, 4))
     ax.plot(monthly.index, monthly.values, marker="o", linewidth=1.5, color="steelblue")
     ax.set_xlabel("Date")
